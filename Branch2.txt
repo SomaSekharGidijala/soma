@@ -1,2 +1,6 @@
 Branch2 Changes
+<<<<<<< HEAD
 branch1 changes
+=======
+branch1 conflict
+>>>>>>> main
